@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # What is this?
 
 An open source project for Gogs documentation.
